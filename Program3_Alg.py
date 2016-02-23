@@ -11,7 +11,7 @@
 ##                                                                             ##
 ##  ALGORITHM:                                                                 ##
 ##      1. Welcome the user as always!                                         ##
-##      2. Ask for input from user for number of rounds to play (1-20).        ##               ##
+##      2. Ask for input from user for number of rounds to play (1-20).        ##  
 ##          i. In case of incorrect input, warn user and ask again.            ##
 ##      3. Ask for input from user for level of difficulty (1, 2, 3).          ##
 ##          i. In case of incorrect input, warn user and ask again.            ##
